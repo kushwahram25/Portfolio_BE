@@ -12,7 +12,6 @@ gem "rails_admin"
 gem 'rack-cors'
 gem "image_processing", "~> 1.2"
 gem 'active_model_serializers', '~> 0.10.13'
-gem 'sprockets-rails'
 
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
